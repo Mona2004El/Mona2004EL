@@ -33,13 +33,35 @@ Faculty of Girls for Arts, Science and Education
 
 🧰 Technical Skills
 
-Category| Technologies
-Programming| Python, C++
-Databases| SQL, SQLite
-AI & Machine Learning| scikit-learn, WEKA
-Generative AI| LLM Applications, Prompt Engineering, RAG concepts
-Frameworks| Streamlit, Gradio, FastAPI fundamentals
-Tools| Git, GitHub, VS Code, Jupyter Notebook
+Programming Languages
+
+- Python
+- C++
+
+Databases
+
+- SQL
+- SQLite
+
+AI & Machine Learning
+
+- scikit-learn
+- WEKA
+
+Generative AI
+
+- LLM Applications
+- Prompt Engineering
+- RAG Fundamentals
+
+Frameworks & Tools
+
+- Streamlit
+- Gradio
+- FastAPI (Fundamentals)
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
 
 🔬 Areas of Interest
 
